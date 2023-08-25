@@ -1,0 +1,17 @@
+{
+  "name": "rings-sdk",
+  "version": "1.0.0",
+  "description": "Lord of the Rings SDK provides developers with a convenient way to interact with The One API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Saravanan Vijayappan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
